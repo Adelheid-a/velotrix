@@ -1,0 +1,1 @@
+import{a as e}from"./node-CanpiEz0.js";export{e as readFileSync};
