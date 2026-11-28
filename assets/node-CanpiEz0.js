@@ -1,1 +1,0 @@
-var e=()=>void 0,t=()=>!1,n=()=>[],r=()=>void 0,i=()=>{throw Error(`No disponible en la demo web.`)},a=(...e)=>e.filter(Boolean).join(`/`),o=a,s=e=>e.split(`/`).slice(0,-1).join(`/`)||`.`;export{i as a,r as c,e as i,t as n,n as o,a as r,o as s,s as t};
