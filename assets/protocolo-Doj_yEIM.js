@@ -1,4 +1,4 @@
-import{g as e,h as t,i as n,m as r,n as i,p as a,r as o,s,t as c,u as l}from"./demo-base-DQtcRul4.js";import{B as u,F as d,G as f,H as p,J as m,K as h,M as g,N as ee,O as te,R as ne,T as _,V as re,X as ie,g as ae,h as oe,k as se,m as ce,q as v,r as le,u as ue,w as de,x as fe,z as pe}from"./domain-DSs10orJ.js";var me=l({}.CRM_DB??`data/crm.db`),he=`
+import{g as e,h as t,i as n,m as r,n as i,p as a,r as o,s,t as c,u as l}from"./demo-base-DivdFnEI.js";import{B as u,F as d,G as f,H as p,J as m,K as h,M as g,N as ee,O as te,R as ne,T as _,V as re,X as ie,g as ae,h as oe,k as se,m as ce,q as v,r as le,u as ue,w as de,x as fe,z as pe}from"./domain-DSs10orJ.js";var me=l({}.CRM_DB??`data/crm.db`),he=`
 CREATE TABLE IF NOT EXISTS usuarios (
   id            INTEGER PRIMARY KEY,
   nombre        TEXT NOT NULL,

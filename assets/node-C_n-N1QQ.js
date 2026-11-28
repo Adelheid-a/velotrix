@@ -1,0 +1,1 @@
+export{c as readFileSync}from"./demo-base-DivdFnEI.js";
